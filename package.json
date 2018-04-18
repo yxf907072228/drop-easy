@@ -1,0 +1,19 @@
+{
+  "name": "drop-easy",
+  "version": "1.0.0",
+  "description": "ECHO ���ڴ�״̬��",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxf907072228/drop-easy.git"
+  },
+  "author": "907072228@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxf907072228/drop-easy/issues"
+  },
+  "homepage": "https://github.com/yxf907072228/drop-easy#readme"
+}
