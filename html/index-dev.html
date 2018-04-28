@@ -4,6 +4,17 @@
 
     </head>
     <body>
-        <h1>hello</h1>
+        <div id="area" style="width:100px;height:100px;background-color:#ddd;">
+
+        </div>
     </body>
+    <script src="../build/drop-easy.js"></script>
+    <script>
+        dropEasy({
+            el:document.getElementById('area'),
+            onDrop(files){
+                console.log(files)
+            }
+        })
+    </script>
 </html>
